@@ -2,7 +2,7 @@
 A Collection of Useful Linux Tools
 
 
-##Commandline Tools
+## Commandline Tools
 
 - LSDeluxe: https://github.com/Peltoche/lsd Improved LS Command
 - Bat: https://github.com/sharkdp/bat Improved cat Command
