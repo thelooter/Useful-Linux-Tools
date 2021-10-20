@@ -7,3 +7,7 @@ A Collection of Useful Linux Tools
 - LSDeluxe: https://github.com/Peltoche/lsd Improved LS Command
 - Bat: https://github.com/sharkdp/bat Improved cat Command
 - byobu: https://github.com/dustinkirkland/byobu Improved Tmux Client
+
+
+## Desktop Apps
+- Conky: https://github.com/brndnmtthws/conky System Monitor
